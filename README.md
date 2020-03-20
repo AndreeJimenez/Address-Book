@@ -10,3 +10,8 @@
 * JSON
 
 This is an Address Book personal project.
+
+# Preview
+
+<img src="images/Homepage.png" />
+<img src="images/UpdateContactPage.png" />
